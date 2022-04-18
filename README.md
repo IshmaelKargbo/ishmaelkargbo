@@ -1,4 +1,4 @@
-<img src="./code.gif" width='100%' height='200' />
+<img src="./code.gif" width='100%' height='400' />
 
 ## Hi there 👋
 
