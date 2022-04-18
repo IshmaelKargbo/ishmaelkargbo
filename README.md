@@ -1,4 +1,4 @@
-![Banner Image] <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
+![Banner Image] ('./code.gif')
 
 ## Hi there 👋
 
@@ -12,7 +12,7 @@ I am **Ishmael Kargbo** working as **Sr. Software Engineer @ Tech9**. I am an Ex
 [![GitHub Ishmael](https://img.shields.io/github/followers/ishmaelkargbo?label=follow&style=social)](https://github.com/ishmaelkargbo)
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social) -->
-![Twitter Follow](https://twitter.com/ishoKargbo?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ishoKargbo?style=social)
 
 ---
 
