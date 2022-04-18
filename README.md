@@ -1,4 +1,4 @@
-![Banner Image] ('./code.gif')
+![Banner Image] <img src="./code.gif" width='100%' />
 
 ## Hi there 👋
 
