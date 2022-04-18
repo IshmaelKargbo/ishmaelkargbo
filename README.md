@@ -15,11 +15,10 @@ I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an
 ![Twitter Follow](https://img.shields.io/twitter/follow/ishoKargbo?style=social)
 
 ---
-
+<!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
 - 🔭 I’m currently working as **Software Engineer @ Fix Solution**
 - 🌱 I’m currently learning **GoLang**
 - 👯 I’m looking to collaborate on open source/commercial projects
-<!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishoKargbo), [Instagram](https://twitter.com/ishoKargbo)**
