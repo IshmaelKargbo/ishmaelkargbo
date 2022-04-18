@@ -23,7 +23,6 @@ I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishoKargbo), [Instagram](https://twitter.com/ishoKargbo)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmaelkargbo&layout=compact&theme=dark&hide_border=true)
-
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ishmaelkargbo&show_icons=true&hide_border=true&theme=dark" alt="ishmaelkargbo" />
+📈 My Github Stats
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmaelkargbo&layout=compact&theme=dark&hide_border=true" alt="ishmaelkargbo" />
+<img src="https://github-readme-stats.vercel.app/api?username=ishmaelkargbo&show_icons=true&hide_border=true&theme=dark" alt="ishmaelkargbo" />
