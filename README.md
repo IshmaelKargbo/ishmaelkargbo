@@ -12,7 +12,7 @@ I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an
 [![GitHub Ishmael](https://img.shields.io/github/followers/ishmaelkargbo?label=follow&style=social)](https://github.com/ishmaelkargbo)
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social) -->
-![Twitter Follow](https://img.shields.io/twitter/follow/ishoKargbo?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ishodev?style=social)
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
@@ -21,7 +21,7 @@ I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/ishoKargbo), [Instagram](https://twitter.com/ishoKargbo)**
+  **[Twitter](https://twitter.com/ishodev), [Instagram](https://twitter.com/ishodev)**
 
 
 📈 My Github Stats
