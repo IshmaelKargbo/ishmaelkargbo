@@ -4,9 +4,6 @@
 
 I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, NodeJS, MongoDB, Mean Stack, RESTfull API’s, User Experience, TypeScript, and GoLang** Strong engineering professional with a Honors Diploma in Information Technology (Software Engineering) focused in Front End Developer / Web Designer from Blue Crest College – Distance Education.
 
-<!-- Vist my **[Blog](https://codewithghazi.com/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)** -->
-
-<!-- Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)** -->
 
 [![Linkedin: Ishmael](https://img.shields.io/badge/-Ishmaelkargbo?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ishmael-kargbo-503660169)](https://linkedin.com/in/ishmael-kargbo-503660169)
 [![GitHub Ishmael](https://img.shields.io/github/followers/ishmaelkargbo?label=follow&style=social)](https://github.com/ishmaelkargbo)
