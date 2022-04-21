@@ -6,10 +6,8 @@ I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an
 
 
 [![Linkedin: Ishmael](https://img.shields.io/badge/-Ishmaelkargbo?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ishmael-kargbo-503660169)](https://linkedin.com/in/ishmael-kargbo-503660169)
-[![GitHub Ishmael](https://img.shields.io/github/followers/ishmaelkargbo?label=follow&style=social)](https://github.com/ishmaelkargbo)
-<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social) -->
-![Twitter Follow](https://img.shields.io/twitter/follow/ishodev?style=social)
+[![GitHub Ishmael](https://img.shields.io/github/followers/ishmaelkargbo?label=follow&style=social)](https://github.com/ishmaelkargbo)\
+![Twitter Follow](https://img.shields.io/twitter/follow/ishodev1?style=social)
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
