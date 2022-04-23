@@ -1,5 +1,3 @@
-<img src="./code.gif" width='100%' height='350' />
-
 ## Hi there 👋
 
 I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, NodeJS, MongoDB, Mean Stack, RESTfull API’s, User Experience, TypeScript, and GoLang** Strong engineering professional with a Honors Diploma in Information Technology (Software Engineering) focused in Front End Developer / Web Designer from Blue Crest College – Distance Education.
