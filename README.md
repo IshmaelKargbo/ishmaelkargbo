@@ -1,8 +1,12 @@
-## Hi there 👋
+<h2 align="center"> Hi, I'm Ishmael KARGBO!</h2>
+<h3 align="center">A software developer from Sierra Leone</h3>
 
-I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, NodeJS, MongoDB, Mean Stack, RESTfull API’s, User Experience, TypeScript, and GoLang** Strong engineering professional with a Honors Diploma in Information Technology (Software Engineering) focused in Front End Developer / Web Designer from Blue Crest College – Distance Education.
+<p align="center">Currently, I am a remote student at Microverse studying to become a Full-Stack Developer. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
+---
 [![Linkedin: Ishmael](https://img.shields.io/badge/-Ishmaelkargbo?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ishmael-kargbo-503660169)](https://linkedin.com/in/ishmael-kargbo-503660169) [![GitHub Ishmael](https://img.shields.io/github/followers/ishmaelkargbo?label=follow&style=social)](https://github.com/ishmaelkargbo) ![Twitter Follow](https://img.shields.io/twitter/follow/ishodev?style=social)
 
 ---
