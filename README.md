@@ -3,7 +3,7 @@
 
 <p align="center">Currently, I am a remote student at Microverse studying to become a Full-Stack Developer. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430">
 
 
 ---
