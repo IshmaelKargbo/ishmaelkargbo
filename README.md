@@ -20,6 +20,12 @@
 
 ---
 
+<h2 align="left">Certificates & Licenses</h2>
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/884d8ed0-7ec8-4e51-9927-ad409273e4dc" target="blank"><img src="./165029443662.png" width="80"></a> 
+</p>
+
+---
 
 ### A little more about me...  
 
@@ -28,7 +34,7 @@
 const aboutMe = {
   lookingFor: "Front-end developer" || "Full-stack developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Vue, TypeScript, GoLang, Python, Taildwind css, ],
+  code: [JavaScript, React, Vue, TypeScript, GoLang, Python, Taildwindcss, ],
   challenge: "I am doing the advence GoLang course to focused on GoLang"
 }
 ```
