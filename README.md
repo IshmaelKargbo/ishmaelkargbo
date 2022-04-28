@@ -3,7 +3,7 @@
 
 <p align="center">Currently, I am a remote student at Microverse studying to become a Full-Stack Developer. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 
 ---
@@ -16,12 +16,12 @@
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/ishodev), [Instagram](https://twitter.com/ishodev)**
+  **[Twitter](https://twitter.com/ishodev)**
 
 ---
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 
 ```javascript
