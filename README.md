@@ -17,8 +17,15 @@ I am **Ishmael Kargbo** working as **Software Engineer @ Fix Solution**. I am an
   **[Twitter](https://twitter.com/ishodev), [Instagram](https://twitter.com/ishodev)**
 
 
-📈 My Github Stats
+```javascript
+const aboutMe = {
+  lookingFor: "Front-end developer" || "Full-stack developer",
+  pronouns: ["he", "him"],
+  code: [JavaScript, React, Vue, TypeScript, GoLang, Python, Taildwind css, ],
+  challenge: "I am doing the advence GoLang course to focused on GoLang"
+}
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmaelkargbo&layout=compact&theme=dark&hide_border=true" alt="ishmaelkargbo" />
+📈 My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ishmaelkargbo&show_icons=true&hide_border=true&theme=dark" alt="ishmaelkargbo" />
