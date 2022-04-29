@@ -11,7 +11,7 @@
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
-- 🔭 I’m currently studying **Microverse**
+- 🔭 I’m currently studying at **Microverse**
 - 🌱 I’m currently learning **GoLang**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishodev)**
