@@ -11,10 +11,8 @@
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
-- 🔭 I’m currently working as **Software Engineer @ Fix Solution**
+- 🔭 I’m currently studying **Microverse**
 - 🌱 I’m currently learning **GoLang**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishodev)**
 
