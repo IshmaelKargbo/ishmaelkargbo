@@ -19,8 +19,8 @@
 ---
 
 <h2 align="left">Certificates & Licenses</h2>
-<a href="https://www.credential.net/884d8ed0-7ec8-4e51-9927-ad409273e4dc" target="blank"><img src="./165029443662.png" width="70"></a> 
-<a href="https://www.credential.net/ca9f6558-53d8-4827-b196-6273a6f3859b" target="blank"><img src="./165389295561.png" width="70"></a> 
+<a href="https://www.credential.net/884d8ed0-7ec8-4e51-9927-ad409273e4dc" target="blank"><img src="./165029443662.png" width="80"></a> 
+<a href="https://www.credential.net/ca9f6558-53d8-4827-b196-6273a6f3859b" target="blank"><img src="./165389295561.png" width="80"></a> 
 
 ---
 
