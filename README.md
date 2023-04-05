@@ -11,7 +11,7 @@
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
-- 🔭 I’m currently working at **Speedykom GmbH**
+- I’m currently working at **Speedykom GmbH**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishodev)**
 
