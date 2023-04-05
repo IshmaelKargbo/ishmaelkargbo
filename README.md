@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Ishmael KARGBO!</h2>
 <h3 align="center">A software developer from Sierra Leone</h3>
 
-<p align="center">Currently, I am a remote student at Microverse studying to become a Full-Stack Developer. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
+<p align="center">Currently, I am a Full-Stack Developer working at Speedykom GmbH. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430">
 
@@ -11,8 +11,7 @@
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
-- 🔭 I’m currently studying at **Microverse**
-- 🌱 I’m currently learning **GoLang**
+- 🔭 I’m currently working at **Speedykom GmbH**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishodev)**
 
@@ -29,10 +28,9 @@
 
 ```javascript
 const aboutMe = {
-  lookingFor: "Front-end developer" || "Full-stack developer",
+  about: "Full-stack developer at Speedykom GmbH",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Vue, TypeScript, Ruby on Rails, Python, Taildwindcss, ],
-  challenge: "I am doing the advence GoLang course to focused on GoLang"
+  code: [JavaScript, React, Vue, TypeScript, Python, Taildwindcss, Apache Airflow, Hop, Druid, Superset ]
 }
 ```
 
