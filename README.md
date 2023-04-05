@@ -25,7 +25,6 @@
 
 ### A little more about me . . .  
 
-
 ```javascript
 const aboutMe = {
   about: "Full-stack developer at Speedykom GmbH",
