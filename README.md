@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Ishmael KARGBO!</h2>
 <h3 align="center">A software developer from Sierra Leone</h3>
 
-<p align="center">Currently, I am a Full-Stack Developer working at Speedykom GmbH. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
+<p align="center">Currently, I am a Full-Stack Developer working as a freelancer. I have a great passion for learning languages and frameworks. In addition to that, I really enjoy designing websites and implementing those designs.</p>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430">
 
