@@ -11,7 +11,7 @@
 
 ---
 <!-- - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
-- I’m currently working at **Speedykom GmbH**
+- I’m currently working at **Moriba SL**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ishodev)**
 
@@ -21,9 +21,9 @@
 
 ```javascript
 const aboutMe = {
-  about: "Full-stack developer at Speedykom GmbH",
-  pronouns: ["he", "him"],
-  code: [JavaScript, React, Vue, TypeScript, Python, Taildwindcss, Apache Airflow, Hop, Druid, Superset ]
+  about: "Full-stack developer at Moriba SL",
+  pronouns: ["He", "Him"],
+  code: [GoLang, Nuxt.js, Vue, TypeScript, Next.js, Taildwindcss, Kubernetes]
 }
 ```
 
